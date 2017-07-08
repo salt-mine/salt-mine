@@ -1,12 +1,12 @@
-# Salt Mine Foreman
+# Salt Mine
 
-This project contains the traditional salt-master role and both console and web UI for managing nodes and mining operations.
+This project contains the traditional salt-master role, custom DNS server for configuration deployment, and both console and web UI for managing nodes and mining operations.
 
 This software is meant to run on modern Ubuntu systems from the command line.
 
 ## Digital Ocean
 
-If you need a virtual host to host a foreman please check out [Digital Ocean](https://m.do.co/c/2094345345ba)
+If you need a virtual host to host a salt-mine please check out [Digital Ocean](https://m.do.co/c/2094345345ba)
 
 ## Beer/College Fund
 
