@@ -1,6 +1,3 @@
-# salt-mine-foreman
-Salt Mine Foreman (Salt Master, Console/Web UI)
-
 # Salt Mine Foreman
 
 This project contains the traditional salt-master role and both console and web UI for managing nodes and mining operations.
